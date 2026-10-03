@@ -1,43 +1,47 @@
 # Ciro Chiadò Puli
 
-**Junior Software & Web Developer · QA / Testing · Automation**
+**Junior Web & Software Developer · QA / Testing**
 
-Based in Turin, Italy · Technical Diploma in **Computer Science and Telecommunications (Computer Science)** · English **B2**
+Turin, Italy · English **C1** · Available for remote part-time, freelance, contractor and B2B work
 
-I build and test web applications, automation workflows and backend systems, with hands-on project experience across **Node.js, TypeScript, Playwright, PostgreSQL and GitHub-based development workflows**.
+I build and test websites and web tools, with hands-on work across front-end development, WordPress, browser testing, accessibility, technical SEO and backend systems.
 
-## Technical focus
+## Featured projects
 
-- **Development:** HTML, CSS, JavaScript, Node.js, TypeScript, Fastify, REST APIs, WordPress / Elementor
-- **QA & web quality:** functional and regression testing, responsive testing, Playwright / Chromium, axe-core, accessibility, technical SEO, performance analysis
-- **Data & automation:** PostgreSQL 17, schema migrations, n8n, Odoo and OpenAI integrations
-- **Delivery & workflow:** Git, GitHub, pull requests, GitHub Actions / CI-CD, Netlify, troubleshooting and release validation
+### [WebDeveloperCiro](https://github.com/cirochiado/E-portfolio/tree/main/web-projects/webdeveloperciro)
+Personal portfolio built with custom HTML, CSS and JavaScript.
 
-## Featured work
+[Live site](https://webdeveloperciro.com)
 
 ### [Accessibility Scanner Cloud](https://github.com/cirochiado/accessibility-scanner-cloud)
-Public serverless website-analysis project covering accessibility, technical SEO and performance. Built with Node.js, Playwright, Chromium, axe-core and Netlify Functions, with authentication, SSRF protections and automated tests.
+Serverless website-analysis project using Node.js, Playwright, Chromium and axe-core for accessibility, SEO and performance checks.
 
-### [CIRO Business OS / CIRO Control — Case Study](https://github.com/cirochiado/E-portfolio/blob/main/CASE-STUDY-CIRO-BUSINESS-OS.md)
-Public documentation for a private engineering project involving TypeScript, Fastify, PostgreSQL 17, migrations, database roles and privileges, GitHub Actions / CI-CD, automated regression gates and n8n / Odoo / OpenAI integrations.
+### [Autolavaggio Tiziano](https://github.com/cirochiado/E-portfolio/tree/main/web-projects/autolavaggio-tiziano)
+WordPress redesign with responsive UI, contact flows and a custom request-handling plugin.
 
-### [Technical Evidence Hub](https://github.com/cirochiado/E-portfolio)
-Architecture notes, case studies and a technical evidence map connecting skills from my CV to concrete project work.
+[Live site](https://www.autolavaggiotiziano.it)
 
-### [Web Portfolio](https://webdeveloperciro.com)
-Web development projects, case studies and client-facing work.
+### [Cerco e Informo](https://github.com/cirochiado/E-portfolio/tree/main/web-projects/cerco-e-informo)
+WordPress project covering responsive layouts, content structure, forms, accessibility and SEO.
 
-## Opportunities
+[Live site](https://cercoeinformo.it)
 
-Open to **remote part-time, freelance, contractor or B2B opportunities from Italy**, especially in:
+### [CIRO Business OS / CIRO Control](https://github.com/cirochiado/E-portfolio/tree/main/software-projects/ciro-business-os)
+Private backend and automation project documented publicly at architecture level.
 
-- junior software / web development
-- QA / software testing
-- technical support and website operations
-- automation and digital operations
+## Skills
+
+- **Front end:** HTML, CSS, JavaScript, responsive design, WordPress / Elementor
+- **Testing & web quality:** Playwright, Chromium, axe-core, functional testing, accessibility, technical SEO
+- **Backend:** Node.js, TypeScript, Fastify, REST APIs, PostgreSQL
+- **Workflow:** Git, GitHub, GitHub Actions, Netlify, troubleshooting
+- **Automation:** n8n, Odoo integrations and structured workflows
+
+## Education
+
+Technical Diploma in **Information Technology and Telecommunications — Computer Science**, 2026.
 
 ## Contact
 
 - **Portfolio:** https://webdeveloperciro.com
 - **Email:** ciro.a.chiado@gmail.com
-- **Location:** Turin, Italy
